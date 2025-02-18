@@ -1,7 +1,7 @@
 {
   "name": "client",
   "short_name": "client",
-  "theme_color": "#d7e3ff",
+  "theme_color": "#f9faf4",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
