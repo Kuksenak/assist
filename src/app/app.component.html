@@ -1,30 +1,18 @@
 <router-outlet />
-<mat-toolbar style="position: fixed; bottom: 0;">
-  <button mat-mini-fab routerLink="home">
+<mat-toolbar style="position: fixed; bottom: 0; padding-bottom: 1em; padding-left: 1em; padding-right: 1em;">
+  <button mat-fab routerLink="home">
     <span class="material-symbols-outlined">home</span>
   </button>
   <span style="flex: 1 1 auto;"></span>
-  <button mat-mini-fab routerLink="settings">
+  <button mat-fab routerLink="settings">
     <span class="material-symbols-outlined">
       settings
     </span>
   </button>
   <span style="flex: 1 1 auto;"></span>
-  <button mat-mini-fab routerLink="mfa">
-    <span class="material-symbols-outlined">
-      security_key
-    </span>
-  </button>
-  <span style="flex: 1 1 auto;"></span>
-  <button mat-mini-fab routerLink="mfa">
+  <button mat-fab routerLink="mfa">
     <span class="material-symbols-outlined">
       passkey
-    </span>
-  </button>
-  <span style="flex: 1 1 auto;"></span>
-  <button mat-mini-fab routerLink="mfa">
-    <span class="material-symbols-outlined">
-      pin
     </span>
   </button>
 </mat-toolbar>

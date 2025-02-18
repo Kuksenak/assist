@@ -1,27 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+@use '@angular/material' as mat;
 
-html,
+//azure
+html {
+    color-scheme: light dark;
+    @include mat.theme((color: mat.$spring-green-palette,
+            typography: Roboto,
+            density: -4));
+}
+
 body {
+    background: var(--mat-sys-surface);
+    color: var(--mat-sys-on-surface);
     padding-top: env(safe-area-inset-top);
     padding-left: env(safe-area-inset-left);
     padding-right: env(safe-area-inset-right);
     padding-bottom: env(safe-area-inset-bottom);
-    margin: 0;
-    // background-color: #f5f5f5;
-
-    mat-toolbar {
-        padding-top: env(safe-area-inset-top);
-        padding-left: env(safe-area-inset-left);
-        padding-right: env(safe-area-inset-right);
-        padding-bottom: env(safe-area-inset-bottom);
-    }
 }
 
-body {
-    margin: 0;
-    font-family: Roboto, "Helvetica Neue", sans-serif;
-
-    .material-symbols-outlined {
-        font-weight: 300;
-    }
+body.dark-mode {
+    color-scheme: dark;
 }
