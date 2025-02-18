@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1739877044650,
+  "timestamp": 1739882919839,
   "index": "https://kuksenak.github.io/assist/index.html",
   "assetGroups": [
     {
@@ -18,7 +18,7 @@
         "https://kuksenak.github.io/assist/main-NVURFKHB.js",
         "https://kuksenak.github.io/assist/manifest.webmanifest",
         "https://kuksenak.github.io/assist/polyfills-FFHMD2TL.js",
-        "https://kuksenak.github.io/assist/styles-JFXKWH7M.css"
+        "https://kuksenak.github.io/assist/styles-5KV3MJ65.css"
       ],
       "patterns": []
     },
@@ -67,11 +67,11 @@
     "https://kuksenak.github.io/assist/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "https://kuksenak.github.io/assist/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "https://kuksenak.github.io/assist/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "https://kuksenak.github.io/assist/index.html": "8b939e59f5b4dbbb936c3b492f68e55c73b49789",
+    "https://kuksenak.github.io/assist/index.html": "d77bcfec9d7eec0a86005b401a59e4287131542f",
     "https://kuksenak.github.io/assist/main-NVURFKHB.js": "1f156b83d7fd9d5021419b88d94291eeb255cf37",
     "https://kuksenak.github.io/assist/manifest.webmanifest": "aff1eebb53b90b9cc3eef1af7742e4de3e61327b",
     "https://kuksenak.github.io/assist/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "https://kuksenak.github.io/assist/styles-JFXKWH7M.css": "cae2561302eff155ebade8c023c41254b2ee7de9"
+    "https://kuksenak.github.io/assist/styles-5KV3MJ65.css": "13946be8480fffff2464d56342ff5d805cc49fb7"
   },
   "navigationUrls": [
     {
