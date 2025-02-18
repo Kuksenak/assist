@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1739822101164,
+  "timestamp": 1739874788440,
   "index": "https://kuksenak.github.io/assist/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://kuksenak.github.io/assist/chunk-HYJUZXQ3.js",
-        "https://kuksenak.github.io/assist/chunk-XAIGJ6FC.js",
+        "https://kuksenak.github.io/assist/chunk-IEYCDM2W.js",
+        "https://kuksenak.github.io/assist/chunk-JC6ZOLFI.js",
         "https://kuksenak.github.io/assist/favicon.ico",
         "https://kuksenak.github.io/assist/index.html",
-        "https://kuksenak.github.io/assist/main-SLY6FZRQ.js",
+        "https://kuksenak.github.io/assist/main-YTUHMOHT.js",
         "https://kuksenak.github.io/assist/manifest.webmanifest",
         "https://kuksenak.github.io/assist/polyfills-FFHMD2TL.js",
-        "https://kuksenak.github.io/assist/styles-AMSB5G6D.css"
+        "https://kuksenak.github.io/assist/styles-776ITSHQ.css"
       ],
       "patterns": []
     },
@@ -56,8 +56,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://kuksenak.github.io/assist/chunk-HYJUZXQ3.js": "511c018349d1a708f0616a19b56742aa45d49965",
-    "https://kuksenak.github.io/assist/chunk-XAIGJ6FC.js": "ef4633ab9719bb5c510cd36f5219923669364728",
+    "https://kuksenak.github.io/assist/chunk-IEYCDM2W.js": "8952f37110a103ae092bb15bf9189901c92a9948",
+    "https://kuksenak.github.io/assist/chunk-JC6ZOLFI.js": "81cb3c5e50720ea534455cf0a407c504ef537c8b",
     "https://kuksenak.github.io/assist/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "https://kuksenak.github.io/assist/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
     "https://kuksenak.github.io/assist/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
@@ -67,11 +67,11 @@
     "https://kuksenak.github.io/assist/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "https://kuksenak.github.io/assist/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "https://kuksenak.github.io/assist/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "https://kuksenak.github.io/assist/index.html": "e5339da1a3cfe4748e3708877a904c4e6406401b",
-    "https://kuksenak.github.io/assist/main-SLY6FZRQ.js": "5476efa5b776cff44a9c18ae753a9dee3c3f0bc8",
+    "https://kuksenak.github.io/assist/index.html": "ead57fb9f676dcd661c524111486cc11d061186b",
+    "https://kuksenak.github.io/assist/main-YTUHMOHT.js": "d14c5156b7e51e72808129ee5798bfebe8f4a6da",
     "https://kuksenak.github.io/assist/manifest.webmanifest": "abf5b8e1f3d7b8beaa3ba31788fc4d117a91dc85",
     "https://kuksenak.github.io/assist/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "https://kuksenak.github.io/assist/styles-AMSB5G6D.css": "766796fab52940a13be7ff567914f64db5902ebc"
+    "https://kuksenak.github.io/assist/styles-776ITSHQ.css": "7c94382f30bbb9fbde3ef362795f315c4eb0f467"
   },
   "navigationUrls": [
     {
